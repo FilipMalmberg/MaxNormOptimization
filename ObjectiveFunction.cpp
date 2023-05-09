@@ -1,4 +1,4 @@
-#include "ObjectiveFuntion.h"
+#include "ObjectiveFunction.h"
 using namespace std;
 
 bool keep_all_atoms = false;
